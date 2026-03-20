@@ -44,7 +44,7 @@ export default async function Home() {
               alt="deal drop"
               width={600}
               height={200}
-              className="h-10 w-auto"
+              className="h-15 w-auto"
             />
           </div>
 
